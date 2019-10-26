@@ -21,9 +21,9 @@
 }
 
 .appMount-3lHmkl {
-	--theme-name: 'Midnight';
-	--theme-long-name: 'Midnight UI';
-	--theme-version: 'v1.9.3';
+	--theme-name: 'Banshee';
+	--theme-long-name: 'Banshee UI';
+	--theme-version: 'v1.0.0';
 }
 
 .theme-dark,
